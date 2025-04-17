@@ -33,8 +33,8 @@ To propagate uncertainty and generate a more insightful view of outcomes, the ap
 
 ### 1. Clone this repository or download the Python file
 ```bash
-git clone https://github.com/RiskAssessment.git
-cd ai-cyber-risk-app
+git clone https://github.com/lijiawei20161002/RiskAssessment.git
+cd RiskAssessment
 ```
 
 ### 2. (Recommended) Set up a virtual environment
